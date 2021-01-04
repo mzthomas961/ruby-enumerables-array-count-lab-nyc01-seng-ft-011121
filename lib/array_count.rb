@@ -18,3 +18,4 @@ def count_empty_strings(array)
       count +1
     end
   end
+end
